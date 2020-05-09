@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://pokos43.ru/sitemap.xml
